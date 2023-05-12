@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* 
+
+title text
+#FFFFFF
+
+subheading text
+#FFFFFF, 85% opacity
+
+*/
+
+.header {
+  width: 100%;
+  background: #23424A;
+  color: white;
+}
+
+.container {
+  max-width: 75%;
+  width: 75%;
+  padding: 100px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 900;
+  margin: 20px 0;
+}
+
+.subtitle {
+  font-size: 21px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.85);
+  margin: 20px 0;
+}
+
+button {
+  text-transform: uppercase;
+  background: #38CFD9;
+  border: 0;
+  border-radius: 2rem;
+  padding: 15px;
+  width: 17rem;
+  color: #072A2D;
+  font-weight: 700;
+  font-size: 21px;
+  margin: 25px 0;
+}
+
+button:hover {
+  background: #2da7b0;
+}
