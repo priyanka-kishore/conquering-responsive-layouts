@@ -7,16 +7,6 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-/* 
-
-title text
-#FFFFFF
-
-subheading text
-#FFFFFF, 85% opacity
-
-*/
-
 .header {
   width: 100%;
   background: #23424A;
@@ -26,20 +16,20 @@ subheading text
 .container {
   max-width: 75%;
   width: 75%;
-  padding: 100px;
+  padding: 6rem;
 }
 
 .title {
-  font-size: 48px;
+  font-size: 3rem;
   font-weight: 900;
-  margin: 20px 0;
+  margin: 1.25rem 0;
 }
 
 .subtitle {
-  font-size: 21px;
+  font-size: 1.3rem;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.85);
-  margin: 20px 0;
+  margin: 1.25rem 0;
 }
 
 button {
@@ -47,12 +37,12 @@ button {
   background: #38CFD9;
   border: 0;
   border-radius: 2rem;
-  padding: 15px;
+  padding: 1rem;
   width: 17rem;
   color: #072A2D;
   font-weight: 700;
-  font-size: 21px;
-  margin: 25px 0;
+  font-size: 1.3rem;
+  margin: 2rem 0;
 }
 
 button:hover {
