@@ -57,4 +57,5 @@ button {
 
 button:hover {
   background: #2da7b0;
+  cursor: pointer;
 }
