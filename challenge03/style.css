@@ -36,16 +36,16 @@ button {
   text-transform: uppercase;
   background: #38CFD9;
   border: 0;
-  border-radius: 2rem;
-  padding: 1rem;
-  width: 17rem;
+  border-radius: 100px;
+  padding: 1em;
+  width: 13em;
   color: #072A2D;
   font-weight: 700;
-  font-size: 1.3rem;
-  margin: 2rem 0;
+  font-size: 1.3em;
+  margin: 2em 0;
 }
 
 button:hover {
-  background: #2da7b0;
+  opacity: 75%;
   cursor: pointer;
 }
